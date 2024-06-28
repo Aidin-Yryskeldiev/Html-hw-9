@@ -1,0 +1,555 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.border {
+	width: 1200px;
+	height: 730px;
+	border: 5px solid black;
+	margin-left: 180px;
+	margin-top: 5px;
+}
+
+.box {
+	width: 1190px;
+	height: 65px;
+	background-color: #131340;
+}
+
+.logo {
+	width: 200px;
+	position: relative;
+	top: 20px;
+	left: 90px;
+}
+
+ul {
+	font-size: 13px;
+	list-style-type: none;
+	color: white;
+	display: flex;
+	position: relative;
+	top: -2px;
+	left: 350px;
+	gap: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.search {
+	position: relative;
+	top: -18px;
+	left: 1080px;
+}
+
+.sign_in {
+	position: relative;
+	top: -39px;
+	left: 1000px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.box_first {
+	width: 1190px;
+	height: 20px;
+	background-color: #c84500;
+}
+
+.text {
+	font-size: 12px;
+	position: relative;
+	top: 3px;
+	left: 90px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_numbers {
+	font-size: 12px;
+	position: relative;
+	top: -10px;
+	left: 925px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo {
+	background: url("./images/background/BG.jpg") center center/cover no-repeat;
+	min-height: 636px;
+	width: 1190px;
+}
+
+.text_luxury {
+	position: relative;
+	top: 250px;
+	left: 600px;
+	font-size: 30px;
+	color: #131340;
+}
+
+.lorem {
+	position: relative;
+	top: 250px;
+	left: 600px;
+	font-size: 15px;
+	color: #131340;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.button_booknow {
+	position: relative;
+	top: 270px;
+	left: 780px;
+	width: 140px;
+	height: 35px;
+	border-radius: 6px;
+	color: white;
+	background-color: #c84500;
+	border: none;
+	cursor: pointer;
+}
+/* index-1 */
+
+/* index-2 */
+.border_blue {
+	width: 970px;
+	height: 80px;
+	border: 2px solid blue;
+	position: relative;
+	top: 300px;
+	left: 85px;
+}
+
+.text_departing {
+	position: relative;
+	top: 20px;
+	left: 15px;
+	color: grey;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+select {
+	width: 230px;
+	border: none;
+	position: relative;
+	top: 30px;
+	left: 10px;
+	color: #131374;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.text_cruising {
+	position: relative;
+	top: -15px;
+	left: 255px;
+	color: grey;
+	font-size: 12px;
+}
+
+.select_choose {
+	color: #131374;
+	top: -4px;
+	left: 250px;
+}
+
+.text_leaving {
+	position: relative;
+	top: -45px;
+	left: 505px;
+	color: grey;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_choose {
+	color: #131374;
+	top: -45px;
+	left: 500px;
+}
+
+.button_search {
+	width: 170px;
+	height: 30px;
+	color: white;
+	background-color: #c84500;
+	border: none;
+	border-radius: 6px;
+	position: relative;
+	top: -60px;
+	left: 550px;
+	cursor: pointer;
+}
+/* index-2 */
+
+/* index-3 */
+.text_popular {
+	position: relative;
+	top: 90px;
+	left: 90px;
+	color: #131374;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem_dolor {
+	position: relative;
+	top: 90px;
+	left: 90px;
+	color: #131374;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+/* index-3 */
+
+/* index-4 */
+.box_second {
+	width: 1190px;
+	height: 500px;
+	background-color: #131374;
+	position: relative;
+	top: 100px;
+}
+
+.logo_second {
+	position: relative;
+	top: 55px;
+	left: 180px;
+	width: 170px;
+}
+
+.text_titanic {
+	position: relative;
+	top: 70px;
+	left: 140px;
+	color: white;
+	font-size: 45px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem_ipsum {
+	position: relative;
+	top: 85px;
+	left: 90px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.button_findcruises {
+	width: 130px;
+	height: 35px;
+	color: white;
+	background-color: #c84500;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+	position: relative;
+	top: -300px;
+	left: 200px;
+}
+
+.photo_titanic {
+	position: relative;
+	top: -265px;
+	left: 380px;
+	width: 620px;
+	border-radius: 30px;
+}
+
+.leila {
+	background-color: whitesmoke;
+	height: 722px;
+}
+
+.text_popular {
+	position: relative;
+	top: 90px;
+	left: 90px;
+	color: #131374;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem_dolor {
+	position: relative;
+	top: 90px;
+	left: 90px;
+	color: #131374;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.papa {
+	width: 1000px;
+	height: 550px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 2fr 1fr;
+	column-gap: 15px;
+}
+.syn {
+	width: 250px;
+	height: 350px;
+	background-color: white;
+	position: relative;
+	top: 100px;
+	right: 5px;
+	border-radius: 8px;
+	box-shadow: 0px 0px 5px  grey;
+}
+
+.photo_first {
+	width: 250px;
+}
+
+.title {
+	position: relative;
+	top: 5px;
+	left: 10px;
+	color: #131374;
+	font-weight: 550;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_starting {
+	position: relative;
+	top: 30px;
+	left: 10px;
+	color: grey;
+	font-size: 12px;
+}
+
+.money {
+	position: relative;
+	top: 32px;
+	left: 10px;
+	font-size: 22px;
+	color: #131374;
+	font-weight: 550;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_departing {
+	position: relative;
+	top: 40px;
+	left: 10px;
+	color: grey;
+	font-size: 8px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_barcelona {
+	position: relative;
+	top: 40px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_ship {
+	position: relative;
+	top: 48px;
+	left: 10px;
+	color: grey;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_blue {
+	position: relative;
+	top: 50px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 900;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_view {
+	position: relative;
+	top: 70px;
+	left: 150px;
+	color: orange;
+	font-size: 12px;
+  font-weight: 550;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.text_startingfrom {
+	position: relative;
+	top: 10px;
+	left: 10px;
+	color: grey;
+	font-size: 12px;
+}
+
+.money_person {
+	position: relative;
+	top: 15px;
+	left: 10px;
+	font-size: 22px;
+	color: #131374;
+	font-weight: 550;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_departingfrom {
+	position: relative;
+	top: 25px;
+	left: 10px;
+	color: grey;
+	font-size: 8px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_barcelonauk {
+	position: relative;
+	top: 30px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.ship_text {
+	position: relative;
+	top: 38px;
+	left: 10px;
+	color: grey;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_rms {
+	position: relative;
+	top: 40px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 900;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_viewdates {
+	position: relative;
+	top: 50px;
+	left: 150px;
+	color: orange;
+	font-size: 12px;
+  font-weight: 550;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title_days {
+	position: relative;
+	top: 5px;
+	left: 10px;
+	color: #131374;
+	font-size: 18px;
+	font-weight: 550;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.starting_text {
+	position: relative;
+	top: 10px;
+	left: 10px;
+	color: grey;
+	font-size: 12px;
+}
+
+.money_number {
+	position: relative;
+	top: 15px;
+	left: 10px;
+	font-size: 22px;
+	color: #131374;
+	font-weight: 550;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.departing_text {
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: grey;
+	font-size: 8px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.barcelona_text {
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 800;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.ship {
+	position: relative;
+	top: 30px;
+	left: 10px;
+	color: grey;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.britannic_text {
+	position: relative;
+	top: 30px;
+	left: 10px;
+	color: #131374;
+	font-size: 10px;
+	font-weight: 900;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_dates {
+	position: relative;
+	top: 48px;
+	left: 150px;
+	color: orange;
+	font-size: 12px;
+  font-weight: 550;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* index-4 */
+
+button {
+	width: 62px;
+	height: 36px;
+	color: rgb(41, 118, 211);
+	background-color: white;
+	cursor: pointer;
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(41, 118, 211);
+	transition: background-color 0.25s, color 0.3s;
+	position: relative;
+	top: 50px;
+	left: 20px;
+}
+
+button:hover {
+	background-color: rgb(41, 118, 211);
+	color: white;
+}
